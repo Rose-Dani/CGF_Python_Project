@@ -1,6 +1,5 @@
 """
 CFG Python project - Recipe book
-
 """
 
 #First of all, it is necessary to import all the libraries
