@@ -2,7 +2,7 @@
 
 # Recipe book
 
-As part of a python course offered by CFG, I had to create an app using APIs to retrieve recipes. The course focused on:
+As part of a python course offered by CFG, we had to create an app using APIs to retrieve recipes. The course focused on:
 - data types and variables
 - using methods
 - using if statements
