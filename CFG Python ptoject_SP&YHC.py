@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 """
 CFG Python project - Recipe book
 
@@ -62,8 +59,8 @@ def get_recipe():
             
     print('The list of recipes ranked by calories is the following:')
     for element in ordered_list:
-        for j in element:
-            print(j) 
+        for sub_element in element:
+            print(sub_element) 
             
      
 get_recipe()
